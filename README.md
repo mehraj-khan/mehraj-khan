@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mehraj-khan
+- 👋 Hi, I’m Muhammad-khan
 - 👀 I’m interested in  web development, especially in creating seamless user experiences.
 - 🌱 I’m currently learning mern-stack-development mobile Application
 - 💞️ I’m looking to collaborate on web projects, from frontend design to backend logic.
